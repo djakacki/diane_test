@@ -21,7 +21,7 @@
    <text>
       <body>
          <div>
-           <pb cert="high" facs="https://raw.githubusercontent.com/djakacki/diane_test/main/0001_Boutelle_Issue4-91-4-0001.jpg" xml:space="default" n="1" xml:id="img_0001"/><p facs="#facs_1_r_1_1">
+           <pb cert="high" facs="https://raw.githubusercontent.com/djakacki/diane_test/main/0001_Boutelle_Issue4-91-4-0001.jpg" n="1"/><p facs="#facs_1_r_1_1">
                <lb facs="#facs_1_r_1_1l1" n="N001"/>Women's Networks:
                <lb facs="#facs_1_r_1_1l2" n="N002"/>Julia Morgan and Her Clients
                <lb facs="#facs_1_r_1_1l3" n="N003"/>Sara Holmes Boutelle</p><p facs="#facs_1_r_2_1">
@@ -232,7 +232,7 @@
                <lb facs="#facs_2_r_3_1l32" n="N032"/>apartments. Dr. Bertola's role as a client
                <lb facs="#facs_2_r_3_1l33" n="N033"/>became more significant as she herself
                <lb facs="#facs_2_r_3_1l34" n="N034"/>took on expanding leadership in the city.</p><p facs="#facs_2_r_4_1">
-               <lb facs="#facs_2_r_4_1l1" n="N001"/>Phoebe Hearst Administration Building, Asilomar, Pacific Grove, Cal., 1913. Photo credit: James H. Edelen.</p><p facs="#facs_2_r_6_1"/><p facs="#facs_2_r_7_1"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><p facs="#facs_3_r_2_1">
+               <lb facs="#facs_2_r_4_1l1" n="N001"/>Phoebe Hearst Administration Building, Asilomar, Pacific Grove, Cal., 1913. Photo credit: James H. Edelen.</p><p facs="#facs_2_r_6_1"/><p facs="#facs_2_r_7_1"/><pb cert="high" facs="https://raw.githubusercontent.com/djakacki/diane_test/main/0002_Boutelle_Issue4-91-4-0002.jpg" xml:space="default" n="3" xml:id="img_0003"/><p facs="#facs_3_r_2_1">
                <lb facs="#facs_3_r_2_1l1" n="N001"/>Susan Mills, Julia Morgan's first client.
                <lb facs="#facs_3_r_2_1l2" n="N002"/>As President of the Federation of Woman's
                <lb facs="#facs_3_r_2_1l3" n="N003"/>Clubs when they were engaged in their
