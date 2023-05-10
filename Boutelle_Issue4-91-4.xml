@@ -21,7 +21,7 @@
    <text>
       <body>
          <div>
-           <pb facs="#facs_1" n="1" xml:id="img_0001"/><p facs="#facs_1_r_1_1">
+           <pb cert="high" facs="https://raw.githubusercontent.com/djakacki/diane_test/main/0001_Boutelle_Issue4-91-4-0001.jpg" xml:space="default" n="1" xml:id="img_0001"/><p facs="#facs_1_r_1_1">
                <lb facs="#facs_1_r_1_1l1" n="N001"/>Women's Networks:
                <lb facs="#facs_1_r_1_1l2" n="N002"/>Julia Morgan and Her Clients
                <lb facs="#facs_1_r_1_1l3" n="N003"/>Sara Holmes Boutelle</p><p facs="#facs_1_r_2_1">
