@@ -1,0 +1,27 @@
+{
+    "editionTitle": "",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "",
+    "documentContent": "",
+    "documentTitle": "",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        ""
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//html",
+                "label": "html"
+            }
+        ],
+        "toc": [
+            "2de9797b2403af3a8d9f8e1448d9f4b2eeb3da062b706f1b31474d7623e4e37a"
+        ]
+    }
+}
